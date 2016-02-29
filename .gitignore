@@ -31,3 +31,5 @@ proguard/
 # Android Studio captures folder
 captures/
 .idea
+Project0.iml
+app/app.iml
