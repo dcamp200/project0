@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="spotifylaunch">This button will launch the Spotify Streamer app!</string>
+    <string name="scoreslaunch">This button will launch the Scores app!</string>
+    <string name="librarylaunch">This button will launch the Library app!</string>
+    <string name="builditlaunch">This button will launch the Build It Bigger app!</string>
+    <string name="xyzlaunch">This button will launch the XYZ Reader app!</string>
+    <string name="capstonelaunch">This button will launch my Capstone app!</string>
+</resources>
